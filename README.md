@@ -1,10 +1,10 @@
 ## Hello I'm Vlad, and i just studying the **backend** and I'm interested in **cryptocurrency** and **DeFi** protocols.
-# Crypto
+# Crypto 🔗
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=orange)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-# Languages
+# Languages 📚
 ![Static Badge](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
-# Skills
+# Skills 💻
 
   
 
