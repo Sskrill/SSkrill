@@ -3,7 +3,9 @@
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=orange)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 # Languages 📚
-![Static Badge](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
+<!-- ![Static Badge](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go) -->
+[![My Skills](https://skillicons.dev/icons?i=go&theme=light)](https://skillicons.dev)
+
 # Skills 💻
 
 
