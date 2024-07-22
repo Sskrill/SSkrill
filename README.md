@@ -1,3 +1,6 @@
+<h1 align="center">
+    <img src="https://cdn.discordapp.com/attachments/592741750393536522/1264959351475539973/Deat_Wolf_Clipchamp.gif?ex=669fc4b3&is=669e7333&hm=24d5d9b58ff7571532c644e7b378451ad8ee8fddb9f1913fb9eaebe79ea5f828&" />
+</h1>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2150&weight=500&pause=1880&center=true&width=435&lines=%E2%9A%A1+Golang+Backend+Developer+%E2%9A%A1" />
 </p>
