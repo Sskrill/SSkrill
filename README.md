@@ -1,4 +1,7 @@
-## Hello I'm Vlad, and i just studying the **backend** and I'm interested in **cryptocurrency** and **DeFi** protocols.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=%E2%9A%A1+Golang+Backend+Developer+%E2%9A%A1" />
+</h1>
+
 # Crypto 🔗
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=orange)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
