@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=%E2%9A%A1+Golang+Backend+Developer+%E2%9A%A1" />
-</h1>
+</p>
 
 # Crypto 🔗
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=orange)
