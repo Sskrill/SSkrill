@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2150&weight=500&pause=1750&center=true&width=435&lines=%E2%9A%A1+Golang+Backend+Developer+%E2%9A%A1" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2150&weight=500&pause=1880&center=true&width=435&lines=%E2%9A%A1+Golang+Backend+Developer+%E2%9A%A1" />
 </p>
 
 # Crypto 🔗
