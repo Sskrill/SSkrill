@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2150&weight=500&pause=1880&center=true&width=435&lines=%F0%9F%91%BB+Golang+Backend+Developer+%F0%9F%91%BB" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2150&weight=500&pause=1880&center=true&width=435&lines=%F0%9F%91%BB+Golang/PHP+Backend+Developer+%F0%9F%91%BB" />
 </p>
 
 # Crypto 🔗
