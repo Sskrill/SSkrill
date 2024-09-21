@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2150&weight=500&pause=1880&center=true&width=435&lines=%F0%9F%91%BB+Golang/PHP+Backend+Developer+%F0%9F%91%BB" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2150&weight=500&pause=1880&center=true&width=435&lines=%F0%9F%91%BB+Golang+Backend+Developer+%F0%9F%91%BB" />
 </p>
 
 # Crypto 🔗
@@ -8,7 +8,7 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 # Languages 📚
 <!-- ![Static Badge](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go) -->
-[![My Skills](https://skillicons.dev/icons?i=go,php&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go&theme=light)](https://skillicons.dev)
 
 # Skills 💻
 
