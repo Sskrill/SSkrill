@@ -8,7 +8,7 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 # Languages 📚
 <!-- ![Static Badge](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go) -->
-[![My Skills](https://skillicons.dev/icons?i=go,php,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,php,js,html,css&theme=light)](https://skillicons.dev)
 
 # Skills 💻
 
